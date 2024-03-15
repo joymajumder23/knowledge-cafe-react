@@ -1,0 +1,53 @@
+[
+    {
+      "Id": 1,
+      "Cover": "https://i.ibb.co/tHn3dcq/vegetables-set-left-black-slate.jpg",
+      "Title": "10 Amazing Hiking Trails Around the World",
+      "Author": "AdventureSeeker24",
+      "Author_image": "https://example.com/author1.jpg",
+      "Posted_date": "2024-03-15",
+      "Reading_time": "8 mins",
+      "Hashtags": ["hiking", "travel", "nature"]
+    },
+    {
+      "Id": 2,
+      "Cover": "https://i.ibb.co/tHn3dcq/vegetables-set-left-black-slate.jpg",
+      "Title": "The Art of Mindful Cooking: Finding Joy in the Kitchen",
+      "Author": "CookingEnthusiast",
+      "Author_image": "https://example.com/author2.jpg",
+      "Posted_date": "2024-03-14",
+      "Reading_time": "6 mins",
+      "Hashtags": ["cooking", "mindfulness", "recipes"]
+    },
+    {
+      "Id": 3,
+      "Cover": "https://i.ibb.co/tHn3dcq/vegetables-set-left-black-slate.jpg",
+      "Title": "Unraveling the Mysteries of Deep Sea Creatures",
+      "Author": "OceanExplorer89",
+      "Author_image": "https://example.com/author3.jpg",
+      "Posted_date": "2024-03-13",
+      "Reading_time": "10 mins",
+      "Hashtags": ["ocean", "marinebiology", "science"]
+    },
+    {
+      "Id": 4,
+      "Cover": "https://i.ibb.co/tHn3dcq/vegetables-set-left-black-slate.jpg",
+      "Title": "10 Tips for Mastering Astrophotography",
+      "Author": "StargazerPro",
+      "Author_image": "https://example.com/author4.jpg",
+      "Posted_date": "2024-03-12",
+      "Reading_time": "7 mins",
+      "Hashtags": ["astronomy", "photography", "night"]
+    },
+    {
+      "Id": 5,
+      "Cover": "https://i.ibb.co/tHn3dcq/vegetables-set-left-black-slate.jpg",
+      "Title": "Exploring Ancient Ruins: A Journey Through History",
+      "Author": "HistoryBuff365",
+      "Author_image": "https://example.com/author5.jpg",
+      "Posted_date": "2024-03-11",
+      "Reading_time": "9 mins",
+      "Hashtags": ["history", "archaeology", "travel"]
+    }
+  ]
+  
