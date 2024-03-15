@@ -1,52 +1,52 @@
 [
     {
       "Id": 1,
-      "Cover": "https://i.ibb.co/tHn3dcq/vegetables-set-left-black-slate.jpg",
+      "Cover": "../src/assets/images/1.jpg",
       "Title": "10 Amazing Hiking Trails Around the World",
       "Author": "AdventureSeeker24",
-      "Author_image": "https://example.com/author1.jpg",
+      "Author_image": "../src/assets/images/profile.png",
       "Posted_date": "2024-03-15",
-      "Reading_time": "8 mins",
+      "Reading_time": "8",
       "Hashtags": ["hiking", "travel", "nature"]
     },
     {
       "Id": 2,
-      "Cover": "https://i.ibb.co/tHn3dcq/vegetables-set-left-black-slate.jpg",
+      "Cover": "../src/assets/images/2.png",
       "Title": "The Art of Mindful Cooking: Finding Joy in the Kitchen",
       "Author": "CookingEnthusiast",
-      "Author_image": "https://example.com/author2.jpg",
+      "Author_image": "../src/assets/images/boy1.png",
       "Posted_date": "2024-03-14",
-      "Reading_time": "6 mins",
+      "Reading_time": "6",
       "Hashtags": ["cooking", "mindfulness", "recipes"]
     },
     {
       "Id": 3,
-      "Cover": "https://i.ibb.co/tHn3dcq/vegetables-set-left-black-slate.jpg",
+      "Cover": "../src/assets/images/3.png",
       "Title": "Unraveling the Mysteries of Deep Sea Creatures",
       "Author": "OceanExplorer89",
-      "Author_image": "https://example.com/author3.jpg",
+      "Author_image": "../src/assets/images/boy2.png",
       "Posted_date": "2024-03-13",
-      "Reading_time": "10 mins",
+      "Reading_time": "10",
       "Hashtags": ["ocean", "marinebiology", "science"]
     },
     {
       "Id": 4,
-      "Cover": "https://i.ibb.co/tHn3dcq/vegetables-set-left-black-slate.jpg",
+      "Cover": "../src/assets/images/1.jpg",
       "Title": "10 Tips for Mastering Astrophotography",
       "Author": "StargazerPro",
-      "Author_image": "https://example.com/author4.jpg",
+      "Author_image": "../src/assets/images/girl1.jpg",
       "Posted_date": "2024-03-12",
-      "Reading_time": "7 mins",
+      "Reading_time": "7",
       "Hashtags": ["astronomy", "photography", "night"]
     },
     {
       "Id": 5,
-      "Cover": "https://i.ibb.co/tHn3dcq/vegetables-set-left-black-slate.jpg",
+      "Cover": "../src/assets/images/4.jpg",
       "Title": "Exploring Ancient Ruins: A Journey Through History",
       "Author": "HistoryBuff365",
-      "Author_image": "https://example.com/author5.jpg",
+      "Author_image": "../src/assets/images/girl2.jpg",
       "Posted_date": "2024-03-11",
-      "Reading_time": "9 mins",
+      "Reading_time": "9",
       "Hashtags": ["history", "archaeology", "travel"]
     }
   ]
